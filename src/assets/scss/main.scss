@@ -1,0 +1,10 @@
+@import './variables.scss';
+@import './clear.scss';
+body {
+  font-family: Arial, sans-serif;
+  color: #000;
+}
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
